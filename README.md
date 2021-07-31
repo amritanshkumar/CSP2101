@@ -1,2 +1,2 @@
 # CSP2101
-Scripting Languages Code
+Scripting Languages Code and Assignments
